@@ -4,5 +4,9 @@
 http://cdn88.telerium.fun:2052/live-2/284/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDIyIDEyOjI3OjUzIEFNJmhhc2hfdmFsdWU9KzJuT0ltN1ZZd29SM2VQQTBDeEM1QT09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=&1___http://cdn88.telerium.fun:2052/live-2/284/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDIyIDEyOjI3OjUzIEFNJmhhc2hfdmFsdWU9UTV5QXpzdlZwcXcyVDRmVXh2TnhZZz09JnZhbGlkbWludXRlcz0zJnN0cm1fbGVuPTEwJmlkPTEzODE4NTEzOTE5Nw==&2
 #EXTINF:-1 ,directv 
 http://cdn88.telerium.fun:2052/live-2/259/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDIyIDEyOjUwOjIzIEFNJmhhc2hfdmFsdWU9bWVqU3JBM0xEWTZiZDh4VkozRG9JZz09JnZhbGlkbWludXRlcz0xMjAmc3RybV9sZW49MTA=&1___http://cdn88.telerium.fun:2052/live-2/259/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDIyIDEyOjUwOjIzIEFNJmhhc2hfdmFsdWU9cjFFMmI4eVJXTWYyQUhMWFRJTGM0Zz09JnZhbGlkbWludXRlcz0zJnN0cm1fbGVuPTEwJmlkPTEzODE4NTEzOTE5Nw==&2
-#EXTINF:-1 ,Tc
+
+
+#EXTINF:-1 ,tTc
 https://www.dailymotion.com/cdn/live/video/x7wijay.m3u8?sec=I26uPOOn3HylHdGXaLCjnEE8_SEhCBjPt_A3J0v1RwmQDcCQBOWIPVLzDiMizlEsaUuXRatjEjqyz6PXUhLXeQ&dmTs=65384&dmV1st=D375FAF879A31167A468DD3121A97A1C
+#EXTINF:-1 ,Teleamazonas
+https://playback.akamaized.net/streams/1359588_9942377_lsikur7fqpwyc7cft5s_1/media/1359588_9942377_lsikur7fqpwyc7cft5s_1@628000p.m3u8?dw=80&ts=1661565600&hdnts=exp=1661740381~acl=/streams/1359588_9942377_lsikur7fqpwyc7cft5s_1/media*~hmac=a42d44301e0a590026d18229b05b75fcba056e7215ebcaa9829c055ff64c32af
