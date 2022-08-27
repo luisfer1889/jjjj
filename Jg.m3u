@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://marcadegol.com/fotos/2011/01/goltv.jpg" group-title="Deporte",gol tv
-http://cdn88.telerium.fun:2052/live-2/284/chunks.m3u8?nimblesessionid=17437844&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDIyIDQ6MTU6MTMgUE0maGFzaF92YWx1ZT1iR0hrK0JSMm9icHJRUkNwSWR5cjNRPT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==&1___http://cdn88.telerium.fun:2052/live-2/284/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDIyIDQ6MTU6MTMgUE0maGFzaF92YWx1ZT1DamNabUFvb3BXNVJLVEJlcnFMeU1nPT0mdmFsaWRtaW51dGVzPTMmc3RybV9sZW49MTAmaWQ9MTM4MTg1MTM5MTk3&2
+http://cdn88.telerium.fun:2052/live-2/284/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDIyIDU6MzU6MDggUE0maGFzaF92YWx1ZT1oaDRYc0w3SWpxa3hFRC9STmk2Vkd3PT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==&1___http://cdn88.telerium.fun:2052/live-2/284/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNy8yMDIyIDU6MzU6MDggUE0maGFzaF92YWx1ZT1SRHFOWVpQYWpBdG5Hb1NiU2JxVEZnPT0mdmFsaWRtaW51dGVzPTMmc3RybV9sZW49MTAmaWQ9MTM4MTg1MTM5MTk3&2
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/AJSl7zf1KY9UP2cM4drSQxny_drzI1YcE63YTElVAXqzW9PvCorg7iDELybfmdpQL2o" group-title="Canales Ecuador",Norvicion
 https://plataformavideo.com:19360/nortvision/nortvision.m3u8
 
