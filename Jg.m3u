@@ -14,3 +14,5 @@ https://playback.akamaized.net/streams/1359588_9942377_lsikur7fqpwyc7cft5s_1/med
 http://axyz.encohd.co:35341/live/nRxroI7GVZ/7JC090Jh1c/69.m3u8
 #EXTINF:-1 tvg-logo="https://estaticos-cdn.elperiodico.com/clip/2fe1f6ed-b31c-41d2-9b52-5c5fef142e4e_alta-libre-aspect-ratio_default_0.jpg" group-title="24/7",Bot esponja
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=c5a9&deviceDNT=0&deviceModel=0
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/14/02/14/13/28/226531.jpg" group-title="24/7",Bot esponja1
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=d90e&deviceDNT=0&deviceModel=0
