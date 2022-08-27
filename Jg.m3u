@@ -8,5 +8,5 @@ https://plataformavideo.com:19360/nortvision/nortvision.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.grupo-novatech.com/wp-content/uploads/2019/08/TC-Television.png" group-title="Canales Ecuador",Tc
 https://www.dailymotion.com/cdn/live/video/x7wijay.m3u8?sec=I26uPOOn3HylHdGXaLCjnEE8_SEhCBjPt_A3J0v1RwmQDcCQBOWIPVLzDiMizlEsaUuXRatjEjqyz6PXUhLXeQ&dmTs=65384&dmV1st=D375FAF879A31167A468DD3121A97A1C
-#EXTINF:-1 ,Teleamazonas
+#EXTINF:-1 tvg-logo="https://www.edina.com.ec/logos/2210123239-394651.jpg" group-title="Canales Ecuador",Teleamazonas
 https://playback.akamaized.net/streams/1359588_9942377_lsikur7fqpwyc7cft5s_1/media/1359588_9942377_lsikur7fqpwyc7cft5s_1@628000p.m3u8?dw=80&ts=1661565600&hdnts=exp=1661740381~acl=/streams/1359588_9942377_lsikur7fqpwyc7cft5s_1/media*~hmac=a42d44301e0a590026d18229b05b75fcba056e7215ebcaa9829c055ff64c32af
