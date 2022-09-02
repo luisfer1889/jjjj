@@ -27,7 +27,7 @@ http://public01.freetraffic.host:2052/freeproxy/3059_RF2021-720ES/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/06/08/14/52/2247090.jpg" group-title="Películas",hera del hielo 
 http://public01.freetraffic.host:2052/freeproxy/3398_IALADB_2022-720ES/chunk.m3u8?nimblesessionid=2238547&wmsAuthSign=c2VydmVyX3RpbWU9OC8yOS8yMDIyIDM6NTM6MzYgQU0maGFzaF92YWx1ZT1xVm1Hc3BMVk85eE5QNFEyWVRRY01BPT0mdmFsaWRtaW51dGVzPTI0MCZpZD05ODliZTlkMzFmZGQ2MWVh
 #EXTINF:-1 tvg-logo="https://marcadegol.com/fotos/20" group-title="Colombia",Caracol
-http://cdn1601.telerium.online:2052/free16/257/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xLzIwMjIgMzoyOTozNiBQTSZoYXNoX3ZhbHVlPXJlRTJpOHI3Q0tqMHZ6WVgzWmgwMkE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+http://8.242.187.236:5007/play/a05z/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium",Tnt Hd
 http://45.232.210.1:8062/play/tnthd/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium",HBO Family
