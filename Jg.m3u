@@ -10,7 +10,7 @@ https://plataformavideo.com:19360/nortvision/nortvision.m3u8
 http://e10.telerium.link:2052/free10/203/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xLzIwMjIgNDoyOToyNiBQTSZoYXNoX3ZhbHVlPXFIMVJvRGhZanZYVFlQT3ZtaS9LUFE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-logo="https://www.edina.com.ec/logos/2210123239-394651.jpg" group-title="Canales Ecuador",Teleamazonas
 https://playback.akamaized.net/streams/1359588_9942377_lsikur7fqpwyc7cft5s_1/media/1359588_9942377_lsikur7fqpwyc7cft5s_1@628000p.m3u8?dw=80&ts=1661565600&hdnts=exp=1661740381~acl=/streams/1359588_9942377_lsikur7fqpwyc7cft5s_1/media*~hmac=a42d44301e0a590026d18229b05b75fcba056e7215ebcaa9829c055ff64c32af
-#EXTINF:-1 tvg-logo="https://files.rcnradio.com/styles/image800x600/public/2018-04/Canal%20RCN.jpg.webp?VersionId=JefrTO_vKwyOJ.jtHpNy9vwkJXGR0Mow&itok=DQ34u-zz" group-title="Canales Colombia",Rcn Novelas 
+#EXTINF:-1 tvg-logo="https://files.rcnradio.com/styles/image800x600/public/2018-04/Canal%20RCN.jpg.webp?VersionId=JefrTO_vKwyOJ.jtHpNy9vwkJXGR0Mow&itok=DQ34u-zz" group-title="Canales Colombia",RCN Novelas 
 http://45.232.210.1:8062/play/a09u/index.m3u8
 #EXTINF:-1 tvg-logo="https://estaticos-cdn.elperiodico.com/clip/2fe1f6ed-b31c-41d2-9b52-5c5fef142e4e_alta-libre-aspect-ratio_default_0.jpg" group-title="24/7",Bot esponja
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=c5a9&deviceDNT=0&deviceModel=0
