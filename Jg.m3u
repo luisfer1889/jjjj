@@ -30,5 +30,5 @@ http://public01.freetraffic.host:2052/freeproxy/3398_IALADB_2022-720ES/chunk.m3u
 http://cdn1601.telerium.online:2052/free16/257/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xLzIwMjIgMzoyOTozNiBQTSZoYXNoX3ZhbHVlPXJlRTJpOHI3Q0tqMHZ6WVgzWmgwMkE9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1 tvg-logo="" group-title="Premium",Tnt Hd
 http://45.232.210.1:8062/play/tnthd/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Premium",Hbo
+#EXTINF:-1 tvg-logo="" group-title="Premium",HBO
 http://45.232.210.1:8062/play/a08i/index.m3u8
