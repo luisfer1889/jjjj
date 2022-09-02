@@ -40,3 +40,6 @@ http://45.232.210.1:8062/play/a08g/index.m3u8
 http://45.232.210.1:8062/play/a08f/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Premium",Warner
 http://45.232.210.1:8062/play/a08q/index.m3u8
+#EXTINF:-1 tvg-shift=0 tvg-name= "GOLDEN_HD" tvg-logo="https://imgur.com/QaUMABB.png", GOLDEN_HD
+#EXTINF:0,http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(GOLDEN_HD)/Stream(01)/index.m3u8
+
