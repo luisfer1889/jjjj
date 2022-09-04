@@ -48,8 +48,8 @@ http://45.232.210.1:8062/play/a08h/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://files.rcnradio.com/styles/image800x600/public/2018-04/Canal%20RCN.jpg.webp?VersionId=JefrTO_vKwyOJ.jtHpNy9vwkJXGR0Mow&itok=DQ34u-zz" grupo- title="Canales Colombia",RCN Novelas
-
+#EXTINF:-1 tvg-logo="https://files.rcnradio.com/styles/image800x600/public/2018-04/Canal%20RCN.jpg.webp?VersionId=JefrTO_vKwyOJ.jtHpNy9vwkJXGR0Mow&itok=DQ34u-zz" grupo- title="Canales Colombia",Goltv
+http://190.131.228.59:8000/play/a05u/index.m3u8
 #EXTINF:-1 tvg-logo="https://files.rcnradio.com/styles/image800x600/public/2018-04/Canal%20RCN.jpg.webp?VersionId=JefrTO_vKwyOJ.jtHpNy9vwkJXGR0Mow&itok=DQ34u-zz" grupo- title="Canales Colombia",RCN Novelas
 
 #EXTINF:-1 tvg-logo="https://files.rcnradio.com/styles/image800x600/public/2018-04/Canal%20RCN.jpg.webp?VersionId=JefrTO_vKwyOJ.jtHpNy9vwkJXGR0Mow&itok=DQ34u-zz" grupo- title="Canales Colombia",Radio
